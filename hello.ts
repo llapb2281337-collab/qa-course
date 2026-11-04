@@ -1,3 +1,3 @@
-console.log("Привет, автоматизация!");
-const sum = 2 + 2;
-console.log("2 + 2 =", sum);
+console.log("Даниил");
+const sum = 15 * 4;
+console.log("15 * 4 =", sum);
